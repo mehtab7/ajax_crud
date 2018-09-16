@@ -1,0 +1,13 @@
+*{
+	border-radius: 0 !important;
+}
+.container{
+	padding-top: 150px;
+}
+.table{
+	margin-top: 50px;
+}
+.icon {
+	color: #000;
+	margin-right: 10px;
+}
